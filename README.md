@@ -8,7 +8,7 @@ these low poly clouds for use in later low poly world art and games. Rendered in
 
 ![3D Scene Screenshot](https://cloud.githubusercontent.com/assets/5659221/18879899/9488cce0-849b-11e6-86a7-3f314762b2f2.png)
 
-> Visit the live demo on CodePen: []().
+> Visit the live demo on CodePen: [http://codepen.io/enesser/full/QKvZyb/](http://codepen.io/enesser/full/QKvZyb/).
 
 ## Controls
 
@@ -29,7 +29,7 @@ Setting                 | Description
 
 This demo is supported on all modern mobile devices where WebGL is supported.
 
-![Mobile Screenshot]()
+![Mobile Screenshot](https://cloud.githubusercontent.com/assets/5659221/18880542/d66b26b0-849d-11e6-9450-d3440f30a6b4.png)
 
 ## Installing
 

@@ -71,10 +71,7 @@ LowPolyCloudWebGLDemo.settings = function() {
          */
         homepage = 'https://github.com/enesser/low-poly-clouds-webgl';
 
-    let gui = null;
-
-
-    gui = new dat.GUI({
+    let gui = new dat.GUI({
         width: 360
     });
     gui.close();
