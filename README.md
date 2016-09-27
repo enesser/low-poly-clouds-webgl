@@ -6,7 +6,7 @@
 Inspired by recent work on [Dribbble](https://dribbble.com/), I created
 these low poly clouds for use in later low poly world art and games. Rendered in WebGL with three.js and served with Express 4.
 
-![3D Scene Screenshot]()
+![3D Scene Screenshot](https://cloud.githubusercontent.com/assets/5659221/18879899/9488cce0-849b-11e6-86a7-3f314762b2f2.png)
 
 > Visit the live demo on CodePen: []().
 
