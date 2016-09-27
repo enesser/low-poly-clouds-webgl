@@ -1,0 +1,48 @@
+  {
+  "name": "low-poly-clouds-webgl",
+  "version": "1.0.0",
+  "description": "Low poly cloud demo rendered and animated in WebGL.",
+  "private": false,
+  "scripts": {
+    "start": "node ./bin/www",
+    "postinstall": "gulp install"
+  },
+  "dependencies": {
+    "babel-register": "^6.4.3",
+    "babel-preset-es2015": "^6.3.13",
+    "body-parser": "^1.14.2",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1",
+    "morgan": "^1.6.1",
+    "serve-favicon": "^2.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-babel": "^6.1.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-if": "^2.0.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-nodemon": "^2.0.6",
+    "gulp-sass": "^2.1.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "WebGL",
+    "clouds",
+    "3D",
+    "modeling"
+  ],
+  "author": "Eric J Nesser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enesser/low-poly-clouds-webgl/issues"
+  },
+  "homepage": "https://github.com/enesser/low-poly-clouds-webgl"
+}

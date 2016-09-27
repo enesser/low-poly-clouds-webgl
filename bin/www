@@ -1,0 +1,13 @@
+#!/usr/bin/env node
+
+'use strict';
+
+require('babel-register');
+
+const app = require('../app');
+
+app.set('port', process.env.PORT || 3000);
+
+let server = app.listen(app.get('port'), () => {
+  console.log('Low Poly Cloud WebGL Demo listening on port ' + server.address().port);
+});
